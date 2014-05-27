@@ -17,6 +17,6 @@
 					cache.push(src);
 				});
 			}
-		}, {offset: h-distance});
+		}, {offset: h-(distance*1)});
 	});
 })(window.jQuery);
