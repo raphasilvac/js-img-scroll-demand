@@ -2,6 +2,7 @@ js-img-scroll-demand
 ====================
 
 Load javascript or image when a element is shown.
+Dependences - jQeury and Waypoint plugin
 
 Example:
 ---------
